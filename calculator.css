@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+}
+table {
+    margin: auto;
+}
+input {
+    font-size: 20px;
+    width: 284px;
+    text-align: center;
+    border-color: black;
+    height: 40px;
+}
+button {
+    font-size: 30px;
+    width: 70px;
+    height: 70px;
+    box-shadow: 2px 2px 2px transparent;
+    border-radius: 5px;
+}
